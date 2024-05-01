@@ -1,0 +1,6 @@
+name: DiscordPlugin
+version: '${project.version}'
+main: me.alan.discordplugin.DiscordPlugin
+api-version: '1.20'
+commands:
+  discord:
